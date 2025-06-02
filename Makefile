@@ -6,6 +6,3 @@ run:
 
 metrics:
 	dvc metrics show
-
-push:
-	dvc push
